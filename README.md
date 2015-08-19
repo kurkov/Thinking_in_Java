@@ -1,4 +1,4 @@
-tij4
+Thinking in Java
 ====
 
-thinking in java version 4 source code
+Bruce Eckel "Thinking in Java" version 4 source code
